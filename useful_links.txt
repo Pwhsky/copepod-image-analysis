@@ -1,5 +1,8 @@
+Source code:
 https://github.com/DeepTrackAI/DeepTrack2/blob/develop/deeptrack/features.py
 
+Original example:
 https://github.com/DeepTrackAI/DeepLearningCrashCourse/blob/main/Ch06_SelfSupervised/Project06_cell_localization/cell_localization.ipynb
 
-
+Multiple training images:
+https://github.com/softmatterlab/Deep-learning-in-plankton-ecology/blob/main/detection-tutorials/1-detection_plankton1.ipynb
