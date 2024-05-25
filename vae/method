@@ -1,0 +1,10 @@
+Collect data from copepod culture plate images, (copepod crops). This will be the dataset, select a handful of crops 
+
+Train VAE using this dataset to capture the high-dimensional distribution of the data.
+
+Sample points from the latent space, feed to decoder to 
+	transform into (hopefully) new copepod crops.
+
+Plot latent space with scatter plot
+
+
